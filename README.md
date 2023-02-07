@@ -49,4 +49,4 @@ Se você quer se desafiar, continue melhorando este projeto. Faça um _Fork_ des
 seus conhecimentos em _front-end_, você pode utilizar este projeto como seu _back-end_.
 
 ## SoulCode Academy
-Este projeto foi criado pelo curso de Spring e Hibernate da [SoulCode Academy](soulcode.com).
+Este projeto foi criado pelo curso de Spring e Hibernate da [SoulCode Academy](https://soulcode.com).
